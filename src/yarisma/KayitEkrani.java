@@ -12,7 +12,7 @@ import java.awt.event.WindowListener;
 
 /**
  *
- * @author MEHTAP
+ * @author Brave
  */
 public class KayitEkrani extends javax.swing.JFrame implements WindowListener {
 

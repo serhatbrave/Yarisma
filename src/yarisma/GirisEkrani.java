@@ -12,7 +12,7 @@ import javax.swing.JFrame;
 
 /**
  *
- * @author MEHTAP
+ * @author Brave
  */
 public class GirisEkrani extends javax.swing.JFrame {
 
