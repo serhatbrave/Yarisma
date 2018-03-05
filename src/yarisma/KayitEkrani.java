@@ -4,6 +4,7 @@ import yarisma.GirisEkrani;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -17,7 +18,7 @@ import java.awt.event.WindowListener;
 public class KayitEkrani extends javax.swing.JFrame implements WindowListener {
 
     /**
-     * Creates new form RegisterForm
+     * Creates new form RegisterFormza
      */
     GirisEkrani loginForm;
     public KayitEkrani(GirisEkrani loginForm) {
